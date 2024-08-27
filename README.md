@@ -10,7 +10,6 @@ just to get started, but took it from the initial setup to make a chess game.
 
 Initialized this project using [Create React App](https://github.com/facebook/create-react-app).
 
-[https://gabrieltal.github.io/chess/](https://gabrieltal.github.io/chess/)
 
 ## Background
 
